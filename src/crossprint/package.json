@@ -1,0 +1,12 @@
+{
+"name": "crossprint-id"
+,
+  "version": "1.0.0",
+
+  "description": "Generate consistent device fingerprint-based ID",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["device-id", "fingerprint", "browser", "cross-browser"],
+  "author": "Indresh Bharati",
+  "license": "MIT"
+}
